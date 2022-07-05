@@ -1,0 +1,9 @@
+{
+    "name": "qi/loja_de_varejo",
+    "autoload": {
+        "psr-4": {
+            "Qi\\LojaDeVarejo\\": "src/"
+        }
+    },
+    "require": {}
+}
